@@ -67,4 +67,14 @@ Facilitates interactions with the model through a web-based interface detailed i
    docker build -t model-deployment .
 
 2.Run the container:
+  ```bash
 docker run -p 80:80 -p 8501:8501 model-deployment
+
+AI ARCHITECTURE ELEVATOR PITCH:
+https://www.youtube.com/watch?v=ZW-hsYpi36A
+
+GENERAL KNOWLEDGE VIDEO DEMONSTRATION:
+https://www.youtube.com/watch?v=N98e7LbzxkI
+
+EXPLORATORY DATA ANALYSIS DEMONSTRATION:
+[https://github.com/onchainlabs1/lemay](https://github.com/onchainlabs1/exploratory/)
