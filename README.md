@@ -1,8 +1,6 @@
 # Model Deployment Demonstration
 
-## Project Overview
-
-This project showcases the deployment of the `bert-base-uncased` model from the [Hugging Face Model Hub](https://huggingface.co/models) for processing inference requests within a Dockerized environment. It utilizes Flask, NGINX, and Gunicorn to manage multiple parallel requests, with a Streamlit application providing an interactive user interface.
+🤗 This project showcases the deployment of the `bert-base-uncased` model from the Hugging Face Model Hub for processing inference requests within a Dockerized environment. It utilizes Flask, NGINX, and Gunicorn to manage multiple parallel requests, with a Streamlit application providing an interactive user interface.
 
 ## Why this Model?
 
