@@ -1,0 +1,17 @@
+apiVersion: 2019-12-01
+location: eastus
+name: myapp
+properties:
+  containers:
+  - name: myapp-container
+    properties:
+      image: dockertestfabio.azurecr.io/myapp:latest
+      ports:
+      - port: 80
+  osType: Linux
+  restartPolicy: OnFailure
+  ipAddress:
+    type: Public
+    ports:
+    - protocol: tcp
+      port: 80
