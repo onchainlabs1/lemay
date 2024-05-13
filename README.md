@@ -11,7 +11,6 @@ The `bert-base-uncased` model was chosen for its efficiency in natural language 
 ### Interface Overview
 
 - **URL**: [Access the Sentiment Analysis Interface](http://52.146.57.234/)
-- **URL**: [Access the Sentiment Analysis Interface PT-BR version](http://48.216.158.146/)
 - **Functionality**: Users input text and receive an analysis indicating whether the sentiment is POSITIVE or NEGATIVE, along with a confidence score.
 
 #### Example Usage
