@@ -26,7 +26,7 @@ Confidence: `0.94`
 This succinct example demonstrates the interface's capability to analyze and reflect the sentiment of user input effectively.
 
 Below is a sample interaction with the interface:
-![Sentiment Analysis Interface Example](http://example.com/screenshot.png) 
+![Sentiment Analysis Interface Example](https://github.com/onchainlabs1/lemay/blob/main/Sentiment-analysis-interface.png) 
 
 ### Implementation Details
 
