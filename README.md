@@ -86,10 +86,11 @@ docker run -p 80:80 -p 8501:8501 model-deployment
 ## General Knowledge Video Demonstration
 [General Knowledge Video Demonstration](https://www.youtube.com/watch?v=N98e7LbzxkI)
 
-🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome! 🚀
-
 ## Exploratory Data Analysis Demonstration 
 [Exploratory Data Analysis on GitHub](https://github.com/onchainlabs1/exploratory/)
+
+
+🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome! 🚀
 
 
 
