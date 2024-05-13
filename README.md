@@ -62,19 +62,25 @@ Facilitates interactions with the model through a web-based interface detailed i
 
 ## Setup and Deployment
 
-1. Build the Docker container:
+1. **Build the Docker container:**
+   Use the following command to build the Docker container:
    ```bash
    docker build -t model-deployment .
+   
+Run the container:
+Use the following command to run the container, mapping necessary ports:
 
-2.Run the container:
-  ```bash
 docker run -p 80:80 -p 8501:8501 model-deployment
 
-AI ARCHITECTURE ELEVATOR PITCH:
-https://www.youtube.com/watch?v=ZW-hsYpi36A
 
-GENERAL KNOWLEDGE VIDEO DEMONSTRATION:
-https://www.youtube.com/watch?v=N98e7LbzxkI
+## AI Architecture Elevator Pitch
+[AI Architecture Elevator Pitch Video](https://www.youtube.com/watch?v=ZW-hsYpi36A)
 
-EXPLORATORY DATA ANALYSIS DEMONSTRATION:
-[https://github.com/onchainlabs1/lemay](https://github.com/onchainlabs1/exploratory/)
+## General Knowledge Video Demonstration
+[General Knowledge Video Demonstration](https://www.youtube.com/watch?v=N98e7LbzxkI)
+
+## Exploratory Data Analysis Demonstration 
+[Exploratory Data Analysis on GitHub](https://github.com/onchainlabs1/exploratory/)
+
+
+
