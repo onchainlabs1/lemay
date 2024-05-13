@@ -11,8 +11,22 @@ The `bert-base-uncased` model was chosen for its efficiency in natural language 
 ### Interface Overview
 
 - **URL**: [Access the Sentiment Analysis Interface](http://52.146.57.234/)
-- - **URL**: [Access the Sentiment Analysis Interface PT-BR version](http://48.216.158.146/)
-- **Functionality**: Users input text, and the system analyzes sentiment, returning results as either POSITIVE or NEGATIVE with a confidence score.
+- **URL**: [Access the Sentiment Analysis Interface PT-BR version](http://48.216.158.146/)
+- **Functionality**: Users input text and receive an analysis indicating whether the sentiment is POSITIVE or NEGATIVE, along with a confidence score.
+
+#### Example Usage
+
+**Input**:  
+"I love this product! It works wonderfully."
+
+**Output**:  
+Sentiment: `POSITIVE`  
+Confidence: `0.94`
+
+This succinct example demonstrates the interface's capability to analyze and reflect the sentiment of user input effectively.
+
+Below is a sample interaction with the interface:
+![Sentiment Analysis Interface Example](http://example.com/screenshot.png) 
 
 ### Implementation Details
 
@@ -22,12 +36,6 @@ The `bert-base-uncased` model was chosen for its efficiency in natural language 
   - **Backend**: Flask — manages inference requests.
   - **Model**: Employs a pre-trained NLP model for nuanced sentiment analysis.
 
-### Usage Example
-
-Below is a sample interaction with the interface:
-![Sentiment Analysis Interface Example](http://example.com/screenshot.png) *Note: Replace with an actual link to the screenshot if available online.*
-
-Users can visit the provided URL, submit their text, and view the analysis results displayed beneath the input field.
 
 ## Components
 
