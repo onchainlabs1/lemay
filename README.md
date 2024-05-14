@@ -16,13 +16,6 @@ The `bert-base-uncased` model was chosen for its efficiency in natural language 
 
 #### Example Usage
 
-**Input**:  
-"I love this product! It works wonderfully."
-
-**Output**:  
-Sentiment: `POSITIVE`  
-Confidence: `0.94`
-
 This succinct example demonstrates the interface's capability to analyze and reflect the sentiment of user input effectively.
 
 Below is a sample interaction with the interface:
