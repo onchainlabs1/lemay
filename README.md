@@ -2,11 +2,11 @@
 
 This project showcases the deployment of the `bert-base-uncased` model from the 🤗 Hugging Face Model Hub for processing inference requests within a Dockerized environment. It utilizes Flask, NGINX, and Gunicorn to manage multiple parallel requests, with a Streamlit application providing an interactive user interface.
 
-## Why this Model?
+## 📌 Why this Model?
 
 The `bert-base-uncased` model was chosen for its efficiency in natural language understanding, requiring minimal fine-tuning to deliver high performance in sentiment analysis tasks. Its pre-training on a large and diverse text corpus makes it well-suited for quick deployment in real-world applications.
 
-## Sentiment Analysis Interface
+## 🎨 Sentiment Analysis Interface
 
 ### Interface Overview
 
@@ -22,7 +22,7 @@ Below is a sample interaction with the interface:
 
 ![Sentiment Analysis Interface Example](https://github.com/onchainlabs1/lemay/blob/main/Sentiment-analysis-interface.png) 
 
-### Implementation Details
+### 🛠️ Implementation Details
 
 - **Deployment**: Hosted on Azure Container Instances for scalable and efficient request handling.
 - **Technology Stack**:
@@ -61,7 +61,7 @@ Facilitates interactions with the model through a web-based interface detailed i
 
 - **requirements.txt**: Includes Flask, transformers, torch, streamlit, requests, gunicorn, ensuring all dependencies are met.
 
-## Setup and Deployment
+## 🛠️ Setup and Deployment
 
 1. **Build the Docker container:**
    Use the following command to build the Docker container:
@@ -74,13 +74,13 @@ Use the following command to run the container, mapping necessary ports:
 docker run -p 80:80 -p 8501:8501 model-deployment
 
 
-## AI Architecture Elevator Pitch
+## 🎥 AI Architecture Elevator Pitch
 [AI Architecture Elevator Pitch Video](https://www.youtube.com/watch?v=ZW-hsYpi36A)
 
-## General Knowledge Video Demonstration
+## 📚 General Knowledge Video Demonstration
 [General Knowledge Video Demonstration](https://www.youtube.com/watch?v=N98e7LbzxkI)
 
-## Exploratory Data Analysis Demonstration 
+## 🚀 Exploratory Data Analysis Demonstration 
 [Exploratory Data Analysis on GitHub](https://github.com/onchainlabs1/exploratory/)
 
 
