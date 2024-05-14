@@ -71,10 +71,9 @@ Facilitates interactions with the model through a web-based interface detailed i
 2. Run the container:
 Use the following command to run the container, mapping necessary ports:
    ```bash
-   docker build -t model-deployment .
-docker run -p 80:80 -p 8501:8501 model-deployment
+   docker run -p 80:80 -p 8501:8501 model-deployment
 
-Run the container:
+
 
 #### 🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome!
 
