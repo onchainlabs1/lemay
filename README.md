@@ -74,6 +74,9 @@ Use the following command to run the container, mapping necessary ports:
 docker run -p 80:80 -p 8501:8501 model-deployment
 
 
+#### 🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome!
+
+
 ## 🎥 AI Architecture Elevator Pitch
 [AI Architecture Elevator Pitch Video](https://www.youtube.com/watch?v=ZW-hsYpi36A)
 
@@ -83,8 +86,6 @@ docker run -p 80:80 -p 8501:8501 model-deployment
 ## 🚀 Exploratory Data Analysis Demonstration 
 [Exploratory Data Analysis on GitHub](https://github.com/onchainlabs1/exploratory/)
 
-
-🚀 Thanks for checking this out! 😊 Excited to see what we can create together — let's make something awesome! 🚀
 
 
 
