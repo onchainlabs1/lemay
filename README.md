@@ -11,6 +11,7 @@ The `bert-base-uncased` model was chosen for its efficiency in natural language 
 ### Interface Overview
 
 - **URL**: [Access the Sentiment Analysis Interface](http://52.146.57.234/)
+- **URL**: [Access the Sentiment Analysis Notebook](https://colab.research.google.com/drive/14o5zHaN4gnqzoZzTR1ZoX9fd3c-ycQFV?usp=sharing)
 - **Functionality**: Users input text and receive an analysis indicating whether the sentiment is POSITIVE or NEGATIVE, along with a confidence score.
 
 #### Example Usage
